@@ -42,3 +42,5 @@ bin/kafka-console-producer.sh --topic topicname --bootstrap-server localhost:909
 bin/kafka-console-consumer.sh --topic topicname --from-beginning --bootstrap-server localhost:9092
 
 
+credits : code & dogs
+https://www.youtube.com/channel/UCyXsLg7-8OKM7Cc0dsmntDA

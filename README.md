@@ -1,4 +1,4 @@
-This is a small project on application of kafka messages, visualized in real time using open source javascript library and flask. Geo data collected from geojson.io which marks the coordinates saved in a file to stream using kakfka topic. A visualization of the coordinates visited in a map is demonstated in this exmaple.
+This is a small project on application of kafka messaging service, visualized in real time using open source javascript library and flask. Geo data collected from geojson.io which marks the coordinates saved in a file to stream using kakfka topic. A visualization of the coordinates visited in a map is demonstated in this exmaple.
 
 Things required to get started apache kafka -  https://kafka.apache.org/quickstart, Python
 

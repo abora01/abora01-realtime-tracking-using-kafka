@@ -8,20 +8,20 @@ If you are running on localhost make sure to check server properties file inside
 kafka broker running on port 9092
 zookeeper on port 2181
 
-****************************
+------------------------
 zookeeper.properties
-****************************
+------------------------
 dataDir=/Users/documents/kafka_install/kafka_2.13-2.7.0/data/zookeeper
 clientPort=2181
 
-****************************
+------------------------
 server.properties
-****************************
+------------------------
 zookeeper.connect=localhost:2181
 
-****************************
+------------------------
 Commands to get started:
-****************************
+------------------------
 
 #start zookeeper
 bin/zookeeper-server-start.sh config/zookeeper.properties
@@ -62,5 +62,5 @@ Steps to execute
 
 
 
-credits : code & dogs
-https://www.youtube.com/channel/UCyXsLg7-8OKM7Cc0dsmntDA
+credits : Code & Dogs
+https://www.buymeacoffee.com/codeanddogs
